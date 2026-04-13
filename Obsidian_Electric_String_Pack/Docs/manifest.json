@@ -1,0 +1,20 @@
+{
+  "name": "Obsidian Electric String Pack",
+  "sample_rate": 48000,
+  "format": "32-bit float WAV",
+  "files": [
+    "Loops/Obsidian_Hollows_Electric_Arp_110BPM.wav",
+    "Loops/Cathedral_Electric_Tremor_95BPM.wav",
+    "Loops/Ritual_Ash_Electric_Pulse_120BPM.wav",
+    "Loops/Veilglass_Electric_Harmonics_140BPM.wav",
+    "Loops/Midnight_Electric_Triptych_88BPM.wav",
+    "Loops/Black_Marrow_Electric_Picking_130BPM.wav",
+    "OneShots/Obsidian_Electric_C3.wav",
+    "OneShots/Obsidian_Electric_E3.wav",
+    "OneShots/Obsidian_Electric_G3.wav",
+    "OneShots/Obsidian_Electric_C4.wav",
+    "OneShots/Obsidian_Electric_E4.wav",
+    "OneShots/Obsidian_Electric_G4.wav",
+    "Docs/obsidian_electric_string_synth.py"
+  ]
+}
